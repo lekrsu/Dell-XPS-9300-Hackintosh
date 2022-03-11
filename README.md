@@ -1,15 +1,4 @@
-@@ -1,6 +1,102 @@
-# Welcome to GitHub Desktop!
 # Dell XPS 9300 (Ice Lake) Hackintosh
-[![](https://img.shields.io/badge/Gitter%20Ice%20Lake-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/ICE-LAKE-HACKINTOSH-DEVELOPMENT/community)
-[![](https://img.shields.io/badge/EFI-Release-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/Lorys89/DELL_VOSTRO_5401-ICE-LAKE/releases)
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-smorpaket
-EFI for Dell XPS 9300 with OpenCore bootloader
-
 
 ![description](./dell-xps13-2020.jpeg)
 
@@ -29,7 +18,7 @@ EFI for Dell XPS 9300 with OpenCore bootloader
 | macOS            | Monterey 12.2.1                      |
 
 
-![screenshot](./"Screenshot 2022-03-11 at 12.55.17.png")
+![screenshot](./Screenshot%202022-03-11%20at%2012.55.17.png)
 
 ### What works and What doesn't or WIP:
 
