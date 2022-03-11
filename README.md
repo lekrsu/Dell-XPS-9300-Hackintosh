@@ -11,7 +11,7 @@ smorpaket
 EFI for Dell XPS 9300 with OpenCore bootloader
 
 
-![descrizione](./images/dell-xps13-2020.jpeg)
+![descrizione](./dell-xps13-2020.jpeg)
 
 ### Computer Specs:
 
@@ -29,7 +29,7 @@ EFI for Dell XPS 9300 with OpenCore bootloader
 | macOS            | Monterey 12.2.1                      |
 
 
-![infomac](./images/screenshot.png)
+![infomac](./screenshot.png)
 
 ### What works and What doesn't or WIP:
 
