@@ -82,11 +82,11 @@
 
 ## (IMPORTANT) Fixing iMessage and other services with OpenCore
 You'll need to generate your own of the following for MacOS to work correctly (WON'T WORK CORRETCLY WITHOUT IT):
-MLB
-ROM*
-SystemProductName
-SystemSerialNumber
-SystemUUID
+* MLB
+* ROM*
+* SystemProductName
+* SystemSerialNumber
+*SystemUUID
 [Link to Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios)
 
 This should be done in macOS or linux.
