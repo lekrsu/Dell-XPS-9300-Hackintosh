@@ -80,6 +80,15 @@
 * cfg lock and DVMT: DO AT YOUR OWN RISK!!! It may brick your laptop. But this is the most important step for power management. Without it, the laptop might idle at 70-100 degrees celsius.
 
 
+## (IMPORTANT, WON'T WORK CORRETCLY WITHOUT IT) Fixing iMessage and other services with OpenCore
+You'll need to generate your own of the following for MacOS to work correctly:
+MLB
+ROM*
+SystemProductName
+SystemSerialNumber
+SystemUUID
+[Link to Guide](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html#using-gensmbios)
+
 This should be done in macOS or linux.
 
 [CFG UNLOCK](CFG%20LOCK.zip)
