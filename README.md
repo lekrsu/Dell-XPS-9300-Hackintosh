@@ -95,6 +95,7 @@ Make sure to generate the strings to the MacBookPro16,2 model.
 
 This should be done in macOS or linux.
 
+## CFG UNLOCK GUIDE
 [CFG UNLOCK](CFG%20LOCK.zip)
 
 1. Copy contents of ZIP above to Downloads folder (~/Downloads/HERE).
