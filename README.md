@@ -82,6 +82,7 @@
 
 ## (IMPORTANT) Fixing iMessage and other services with OpenCore
 You'll need to generate your own of the following for MacOS to work correctly (WON'T WORK CORRETCLY WITHOUT IT):
+
 Make sure to generate the strings to the MacBookPro16,2 model.
 
 * MLB
